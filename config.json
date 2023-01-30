@@ -2,8 +2,8 @@
   "latestVersion": "1.0.0",
   "latestVersionCode": 1,
   "disableRequest": {
-    "below": 10,
-    "on": "8 9"
+    "below": ,
+    "on": ""
   },
   "url": "https://github.com/Daxyne/cyberspace-iconpack.github.io",
   "releaseNotes": [
