@@ -1,12 +1,13 @@
 {
   "latestVersion": "1.0",
   "latestVersionCode": 1,
-  "url": "https://github.com/Daxyne/cyberspace-iconpack.github.io",
   "disableRequest": {
-    "below": 10,
+    "below": 1,
     "on": ""
-  }
+  },
+  "url": "https://github.com/zixpo/candybar",
   "releaseNotes": [
-    "Initial Release"
+    "Welcome to CyberSpace Icon Pack"
+    "You're using the latest Version"
   ]
 }
