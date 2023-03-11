@@ -1,6 +1,10 @@
 {
   "latestVersion": "1.2",
   "latestVersionCode": 3,
+   "disableRequest": {
+    "below": ,
+    "on": ""
+  },
   "url": "https://github.com/zixpo/candybar",
   "releaseNotes": [
     "Welcome to CyberSpace Icon Pack"
